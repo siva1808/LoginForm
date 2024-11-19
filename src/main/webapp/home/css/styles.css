@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+form a{
+    width: 70px ;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px 2rem;
+    margin: 10px;
+    letter-spacing: 1px;
+}
+form .register{
+    width: 100px ;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px 2rem;
+    margin: 10px;
+    letter-spacing: 1px;
+}
+form a:hover{
+    background-color: white;
+    color: #ff6d00;
+    border-radius: 36px;
+    /* -webkit-border-radius: 36px; */
+    /* -moz-border-radius: 36px; */
+    /* -o-border-radius: 36px; */
+    /* -ms-border-radius: 36px; */
+}
